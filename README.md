@@ -3,10 +3,11 @@ This mod is essentially a mod that allows you to spawn a monster of your choice 
 The current version of the mod only requires the host to have it and only they can use the commands. It also works as of patch v64 and can spawn any enemy other than the man eater, which I currently could not get to spawn using the mod.
 
 
-This mod was originally developed for use by the Twitch Streamer Akalllo in the following video but we have now decided to make it public!
+This mod was originally developed for use by the Twitch Streamer AKalllo in the following video but we have now decided to make it public!
 https://www.youtube.com/watch?v=GlzoKWYj9rw
 This mod is now open source and free for anyone to use, If you do decide to use it to create content it would be appreciated if you shouted out me or Akalllo but that is not required.
-
+if you are interested in the source code for the project, the GitHub can be found here:
+https://github.com/KingofSkulls/Lethal-Company-Contant-Spawning
 
 
 # How to use the spawn function
@@ -56,7 +57,7 @@ RadMech
 
 # Credits
 - All new code written by Skull King
-- Credit to Akalllo for the idea
+- Credit to AKalllo for the idea
 - Credit to the following developers for creating the Game Master mod used as a base for this mod
 - Pre 1.11 code written by iminxx
 - Icon by sadamazon
