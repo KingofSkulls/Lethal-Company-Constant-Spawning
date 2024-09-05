@@ -7,7 +7,7 @@ This mod was originally developed for use by the Twitch Streamer AKalllo in the 
 https://www.youtube.com/watch?v=GlzoKWYj9rw
 This mod is now open source and free for anyone to use, If you do decide to use it to create content it would be appreciated if you shouted out me or Akalllo but that is not required.
 if you are interested in the source code for the project, the GitHub can be found here:
-https://github.com/KingofSkulls/Lethal-Company-Contant-Spawning
+https://github.com/KingofSkulls/Lethal-Company-Constant-Spawning
 
 
 # How to use the spawn function
