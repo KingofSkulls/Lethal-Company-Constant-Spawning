@@ -1,5 +1,5 @@
 # Constant Spawning Mod
-This mod is essentially a mod that allows you to spawn a monster of your choice at an interval set by you. it could be one second or twenty the choice is yours.
+This mod allows you to spawn a monster of your choice at an interval set by you. it could be one second or twenty the choice is yours.
 The current version of the mod only requires the host to have it and only they can use the commands. It also works as of patch v64 and can spawn any enemy other than the man eater, which I currently could not get to spawn using the mod.
 
 
